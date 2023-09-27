@@ -50,6 +50,7 @@ const updateQuantities = async (xmagkey, xmagApi, webkulAPi, webkulToken) => {
   }
 };
 
+//Naudoti kai reikės atnaujinti visas prekes
 // const updateQuantities = async (
 //   xmagkey,
 //   xmagApi,
